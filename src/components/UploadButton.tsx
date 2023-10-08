@@ -143,7 +143,6 @@ const UploadDropzone = ({
                       <Loader2 className='h-3 w-3 animate-spin' />
                       Redirecting...
                     </div>
-                    
                   ) : null}
                 </div>
               ) : null}

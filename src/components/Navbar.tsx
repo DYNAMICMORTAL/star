@@ -21,7 +21,7 @@ const Navbar = () => {
           <Link
             href='/'
             className='flex z-40 font-semibold'>
-            <span>S.T.A.R.</span>
+            <span>quill.</span>
           </Link>
 
           <MobileNav isAuth={!!user} />
@@ -29,7 +29,7 @@ const Navbar = () => {
           <div className='hidden items-center space-x-4 sm:flex'>
             {!user ? (
               <>
-{/*                 <Link
+                {/* <Link
                   href='/pricing'
                   className={buttonVariants({
                     variant: 'ghost',
