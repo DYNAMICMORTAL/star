@@ -147,18 +147,6 @@ export default function Home() {
             </div>
           </li>
         </ol>
-        <div className='mb-12 px-6 lg:px-8'>
-          <div className='mx-auto max-w-2xl sm:text-center'>
-            <h2 className='mt-2 font-bold text-4xl text-gray-900 sm:text-5xl'>
-              Identify Mask Make it Public
-            </h2>
-            <p className='mt-4 text-lg text-gray-600'>
-              Identify Confidential Data.<br>
-              </br>
-              Mask it with our AI. <br></br>
-            </p>
-          </div>
-        </div>
 
         <div className='mx-auto max-w-6xl px-6 lg:px-8'>
           <div className='mt-16 flow-root sm:mt-24'>
