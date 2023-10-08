@@ -153,7 +153,7 @@ export default function Home() {
               Identify Mask Make it Public
             </h2>
             <p className='mt-4 text-lg text-gray-600'>
-              Indentify Confidential Data.<br>
+              Identify Confidential Data.<br>
               </br>
               Mask it with our AI. <br></br>
             </p>
