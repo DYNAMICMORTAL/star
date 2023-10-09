@@ -38,7 +38,7 @@ const Navbar = () => {
                   Pricing
                 </Link> */}
                 <Link
-                  href='/dashboard'
+                  href='https://huggingface.co/spaces/ombhojane/welldocs'
                   className={buttonVariants({
                     variant: 'ghost',
                     size: 'sm',
